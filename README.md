@@ -45,25 +45,24 @@ This is a list of papers broadly related to machine learning for theorem proving
 ### Lean
 
 * [Formal Mathematics Statement Curriculum Learning](https://arxiv.org/abs/2202.01344)
-* [HyperTree Proof Search for Neural Theorem Proving](https://arxiv.org/abs/2205.11491)
 * [Proof Artifact Co-Training](https://arxiv.org/abs/2102.06203)
 * [LIME: Learning Inductive Bias for Primitives of Mathematical Reasoning](https://arxiv.org/abs/2101.06223)
+* [HyperTree Proof Search for Neural Theorem Proving](https://arxiv.org/abs/2205.11491)
 
 
 ### Metamath
 
 * [Learning to Prove Theorems by Learning to Generate Theorems](https://arxiv.org/abs/2002.07019)
 * [HyperTree Proof Search for Neural Theorem Proving](https://arxiv.org/abs/2205.11491)
-* [GPT-f](https://arxiv.org/abs/2009.03393)
+* [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
 * [LIME: Learning Inductive Bias for Primitives of Mathematical Reasoning](https://arxiv.org/abs/2101.06223)
 
 
 ### Others
 
-* [INT](https://arxiv.org/abs/2007.02924)
-* [MiniF2F](https://arxiv.org/abs/2109.00110)
+* [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://arxiv.org/abs/2007.02924)
+* [MiniF2F: a cross-system benchmark for formal Olympiad-level mathematics](https://arxiv.org/abs/2109.00110)
 * [TacticZero: Learning to Prove Theorems from Scratch with Deep Reinforcement Learning](https://arxiv.org/abs/2102.09756)
-
 
 
 ## Autoformalization
@@ -73,11 +72,15 @@ This is a list of papers broadly related to machine learning for theorem proving
 * [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://arxiv.org/abs/2210.12283)
 * [Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification](https://arxiv.org/abs/2303.08006)
 * [nl2spec: Interactively Translating Unstructured Natural Language to Temporal Logics with Large Language Models](https://arxiv.org/abs/2303.04864)
+* [ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics](https://arxiv.org/abs/2302.12433)
+* [Towards a Mathematics Formalisation Assistant using Large Language Models](https://arxiv.org/abs/2211.07524)
+* [Formal Specifications from Natural Language](https://arxiv.org/abs/2206.01962)
+* [Towards Autoformalization of Mathematics and Code Correctness: Experiments with Elementary Proofs](https://arxiv.org/abs/2301.02195)
 
 
 ## Premise Selection
 
-* [DeepMath](https://arxiv.org/abs/1606.04442)
+* [DeepMath - Deep Sequence Models for Premise Selection](https://arxiv.org/abs/1606.04442)
 * [Machine-Learned Premise Selection for Lean](https://bartoszpiotrowski.pl/p/lean-premise-selection-paper.pdf)
 * [Premise Selection for Theorem Proving by Deep Graph Embedding](https://arxiv.org/abs/1709.09994)
 
@@ -99,6 +102,7 @@ This is a list of papers broadly related to machine learning for theorem proving
 * [Learning Heuristics for Quantified Boolean Formulas through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058)
 * [Teaching Temporal Logics to Neural Networks](https://arxiv.org/abs/2003.04218)
 * [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685)
+* [Guiding High-Performance SAT Solvers with Unsat-Core Predictions](https://link.springer.com/chapter/10.1007/978-3-030-24258-9_24)
 
 
 ## Theorem Proving and Mathematical Reasoning in Natural Language
@@ -109,3 +113,4 @@ This is a list of papers broadly related to machine learning for theorem proving
 * [LILA: A Unified Benchmark for Mathematical Reasoning](https://aclanthology.org/2022.emnlp-main.392/)
 * [Measuring Mathematical Problem Solving With the MATH Dataset](https://arxiv.org/abs/2103.03874)
 * [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858)
+* [A Survey in Mathematical Language Processing](https://arxiv.org/abs/2205.15231)
