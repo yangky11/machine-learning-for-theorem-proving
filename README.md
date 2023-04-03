@@ -20,7 +20,7 @@ This is a list of papers broadly related to machine learning for theorem proving
 
 ### HOL Light
 
-* [HoList](https://arxiv.org/abs/1904.03241)
+* [HOList: An Environment for Machine Learning of Higher-Order Theorem Proving](https://arxiv.org/abs/1904.03241)
 * [Graph Representations for Higher-Order Logic and Theorem Proving](https://arxiv.org/abs/1905.10006)
 * [Mathematical Reasoning via Self-supervised Skip-tree Training](https://arxiv.org/abs/2006.04757)
 * [Learning to Reason in Large Theories without Imitation](https://arxiv.org/abs/1905.10501)
