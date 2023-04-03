@@ -95,7 +95,7 @@ This is a list of papers broadly related to machine learning for theorem proving
 
 ## Machine Learning for Other Symbolic Tasks Related to Theorem Proving
 
-* [FastSMT](http://fastsmt.ethz.ch/)
+* [Learning to Solve SMT Formulas Fast](http://fastsmt.ethz.ch/)
 * [Learning Loop Invariants for Program Verification](https://papers.nips.cc/paper_files/paper/2018/hash/65b1e92c585fd4c2159d5f33b5030ff2-Abstract.html)
 * [Learning to Find Proofs and Theorems by Learning to Refine Search Strategies: The Case of Loop Invariant Synthesis](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1f14ac136d55c34a18a04ce3db083599-Abstract-Conference.html), Laurent and Platzer, NeurIPS 2022:
 * [Learning Heuristics for Quantified Boolean Formulas through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058)
