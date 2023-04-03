@@ -39,7 +39,7 @@ This is a list of papers broadly related to machine learning for theorem proving
 * [Baldur: Whole-Proof Generation and Repair with Large Language Models](https://arxiv.org/abs/2303.04910)
 * [LIME: Learning Inductive Bias for Primitives of Mathematical Reasoning](https://arxiv.org/abs/2101.06223)
 * [Hammering towards QED](https://pure.mpg.de/rest/items/item_2381986/component/file_2381985/content)
-* [LISA: Language Models of Isabelle Proofs](http://aitp-conference.org/2021/abstract/paper_17.pdf), Jiang et al., AITP 2021:
+* [LISA: Language models of ISAbelle proofs](http://aitp-conference.org/2021/abstract/paper_17.pdf), Jiang et al., AITP 2021:
 
 
 ### Lean
