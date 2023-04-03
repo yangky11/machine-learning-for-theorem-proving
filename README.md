@@ -8,15 +8,15 @@ This is a list of papers broadly related to machine learning for theorem proving
 
 ### Coq
 
-* [GamePad](https://arxiv.org/abs/1806.00608)
-* [CoqGym](https://arxiv.org/abs/1905.09381)
+* [GamePad: A Learning Environment for Theorem Proving](https://arxiv.org/abs/1806.00608)
+* [Learning to Prove Theorems via Interacting with Proof Assistants](https://arxiv.org/abs/1905.09381)
 * [TacticToe: Learning to Prove with Tactics](https://arxiv.org/abs/1804.00596)
 * [TacTok: Semantics-Aware Proof Synthesis](https://dl.acm.org/doi/abs/10.1145/3428299)
 * [Generating Correctness Proofs with Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394450.3397466)
 * [Passport: Improving Automated Formal Verification Using Identifiers](https://arxiv.org/abs/2204.10370)
 * [The Tactician: A Seamless, Interactive Tactic Learner and Prover for Coq](https://link.springer.com/chapter/10.1007/978-3-030-53518-6_17)
 * [Hammer for Coq: Automation for Dependent Type Theory](https://link.springer.com/article/10.1007/s10817-018-9458-4)
-* 
+
 
 ### HOL Light
 
@@ -24,7 +24,7 @@ This is a list of papers broadly related to machine learning for theorem proving
 * [Graph Representations for Higher-Order Logic and Theorem Proving](https://arxiv.org/abs/1905.10006)
 * [Mathematical Reasoning via Self-supervised Skip-tree Training](https://arxiv.org/abs/2006.04757)
 * [Learning to Reason in Large Theories without Imitation](https://arxiv.org/abs/1905.10501)
-* [Retrieval-Augmented Proof Step Synthesis](http://aitp-conference.org/2021/abstract/paper_18.pdf), Szeged et al., AITP 2021:
+* [Retrieval-Augmented Proof Step Synthesis](http://aitp-conference.org/2021/abstract/paper_18.pdf), Szegedy et al., AITP 2021:
 * [LIME: Learning Inductive Bias for Primitives of Mathematical Reasoning](https://arxiv.org/abs/2101.06223)
 * [Mathematical Reasoning in Latent Space](https://arxiv.org/abs/1909.11851)
 * [HOL(y)Hammer: Online ATP Service for HOL Light](https://arxiv.org/abs/1309.4962)
