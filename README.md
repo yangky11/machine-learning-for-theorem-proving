@@ -73,7 +73,6 @@ This is a list of papers broadly related to machine learning for theorem proving
 * [Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification](https://arxiv.org/abs/2303.08006)
 * [nl2spec: Interactively Translating Unstructured Natural Language to Temporal Logics with Large Language Models](https://arxiv.org/abs/2303.04864)
 * [ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics](https://arxiv.org/abs/2302.12433)
-* [Towards a Mathematics Formalisation Assistant using Large Language Models](https://arxiv.org/abs/2211.07524)
 * [Formal Specifications from Natural Language](https://arxiv.org/abs/2206.01962)
 * [Towards Autoformalization of Mathematics and Code Correctness: Experiments with Elementary Proofs](https://arxiv.org/abs/2301.02195)
 
