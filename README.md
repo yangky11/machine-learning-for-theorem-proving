@@ -8,12 +8,12 @@ This is a list of papers broadly related to machine learning for theorem proving
 
 ### Coq
 
-* [GamePad: A Learning Environment for Theorem Proving](https://arxiv.org/abs/1806.00608)
-* [Learning to Prove Theorems via Interacting with Proof Assistants](https://arxiv.org/abs/1905.09381)
-* [TacticToe: Learning to Prove with Tactics](https://arxiv.org/abs/1804.00596)
-* [TacTok: Semantics-Aware Proof Synthesis](https://dl.acm.org/doi/abs/10.1145/3428299)
-* [Generating Correctness Proofs with Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394450.3397466)
-* [Passport: Improving Automated Formal Verification Using Identifiers](https://arxiv.org/abs/2204.10370)
+* [GamePad: A Learning Environment for Theorem Proving](https://arxiv.org/abs/1806.00608), Huang et al., ICLR 2019: [[code]](https://github.com/ml4tp/gamepad)
+* [Learning to Prove Theorems via Interacting with Proof Assistants](https://arxiv.org/abs/1905.09381), Yang and Deng, ICML 2019: [[code]](https://github.com/princeton-vl/CoqGym)
+* [TacticToe: Learning to Prove with Tactics](https://arxiv.org/abs/1804.00596), Gauthier et al., Journal of Automated Reasoning, 2021: [[code]](https://github.com/HOL-Theorem-Prover/HOL)
+* [TacTok: Semantics-Aware Proof Synthesis](https://dl.acm.org/doi/abs/10.1145/3428299), First et al., OOPSLA 2020: [[code]](https://github.com/LASER-UMASS/TacTok)
+* [Generating Correctness Proofs with Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394450.3397466), Sanchez-Stern et al., MAPL 2020: [[code]](https://github.com/UCSD-PL/proverbot9001)
+* [Passport: Improving Automated Formal Verification Using Identifiers](https://arxiv.org/abs/2204.10370), Sanchez-Stern et al., ACM Transactions on Programming Languages and Systems, 2023: [[code]](https://github.com/LASER-UMASS/Passport)
 * [The Tactician: A Seamless, Interactive Tactic Learner and Prover for Coq](https://link.springer.com/chapter/10.1007/978-3-030-53518-6_17)
 * [Hammer for Coq: Automation for Dependent Type Theory](https://link.springer.com/article/10.1007/s10817-018-9458-4)
 
