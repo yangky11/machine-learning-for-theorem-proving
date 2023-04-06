@@ -3,6 +3,8 @@ Machine Learning for Theorem Proving
 
 This is a list of papers broadly related to machine learning for theorem proving. PRs are welcome.
 
+Related Lists: https://github.com/lupantech/dl4math
+
 
 ## Theorem Proving in Proof Assistants (a.k.a. Interactive Theorem Provers)
 
