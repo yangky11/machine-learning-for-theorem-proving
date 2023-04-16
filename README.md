@@ -69,6 +69,7 @@ Related Lists: https://github.com/lupantech/dl4math
 
 ## Autoformalization
 
+* [First Experiments with Neural Translation of Informal to Formal Mathematics](https://arxiv.org/abs/1805.06502)
 * [Autoformalization with Large Language Models](https://arxiv.org/abs/2205.12615)
 * [Towards a Mathematics Formalisation Assistant using Large Language Models](https://arxiv.org/abs/2211.07524)
 * [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://arxiv.org/abs/2210.12283)
